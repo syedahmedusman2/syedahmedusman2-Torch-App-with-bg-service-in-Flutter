@@ -1,4 +1,4 @@
-# torchapp2
+# Torch App with shake detect and background service
 
 A new Flutter project.
 
